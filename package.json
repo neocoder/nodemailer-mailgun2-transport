@@ -1,0 +1,32 @@
+{
+  "name": "nodemailer-mailgun2-transport",
+  "version": "1.0.0",
+  "description": "Alternative Mailgun transport for Nodemailer",
+  "main": "lib/transport.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "_repository": {
+    "type": "",
+    "url": ""
+  },
+  "keywords": [
+    "Mailgun",
+    "Nodemailer",
+    "Transport"
+  ],
+  "author": {
+    "name": "Alex Ladyga"
+  },
+  "license": "MIT",
+  "_bugs": {
+    "url": "https://github.com/andris9/nodemailer-smtp-transport/issues"
+  },
+  "_homepage": "http://github.com/andris9/nodemailer-smtp-transport",
+  "dependencies": {
+    "needle": "^0.10.0"
+  },
+  "devDependencies": {
+    "mocha": "^2.2.4"
+  }
+}
