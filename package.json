@@ -6,9 +6,9 @@
   "scripts": {
     "test": "mocha"
   },
-  "_repository": {
-    "type": "",
-    "url": ""
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/neocoder/nodemailer-mailgun2-transport.git"
   },
   "keywords": [
     "Mailgun",
@@ -19,10 +19,10 @@
     "name": "Alex Ladyga"
   },
   "license": "MIT",
-  "_bugs": {
-    "url": "https://github.com/andris9/nodemailer-smtp-transport/issues"
+  "bugs": {
+    "url": "https://github.com/neocoder/nodemailer-mailgun2-transport/issues"
   },
-  "_homepage": "http://github.com/andris9/nodemailer-smtp-transport",
+  "homepage": "http://github.com/neocoder/nodemailer-mailgun2-transport",
   "dependencies": {
     "needle": "^0.10.0"
   },
